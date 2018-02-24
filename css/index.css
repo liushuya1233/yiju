@@ -75,6 +75,9 @@ body{
 	float: right;
 	position: relative;
 }
+.top_rwenzi a{
+	color: #000;
+}
 .top_wzs{
 	width: 8px;
 	height: 8px;

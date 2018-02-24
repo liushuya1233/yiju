@@ -75,6 +75,9 @@ body{
 	float: right;
 	position: relative;
 }
+.top_rwenzi a{
+	color: #000;
+}
 .top_wzs{
 	width: 8px;
 	height: 8px;
@@ -562,6 +565,7 @@ body{
 .wc_biaoti1{
 	width: 105px;
 	height: 28px;
+	color: #000;
 	display: inline-block;
 }
 .wc_biaoti2{
